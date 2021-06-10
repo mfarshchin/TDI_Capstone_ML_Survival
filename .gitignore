@@ -1,0 +1,4 @@
+# ignore preceded folder
+preceded/
+# ignore environmental varaibles
+.env
